@@ -1,0 +1,16 @@
+代码管理系统
+http://dev.bsjtech.net:8085/
+lzx  
+lzx123
+
+开发手册
+http://dev.bsjtech.net/develop_manual
+wearethebest
+
+开发学习环境
+http://10.50.51.222/mes_develop_tutorial/
+root
+admin
+
+
+环境安装与配置：http://dev.bsjtech.net/install_manual/%E5%AE%89%E8%A3%85MembaseServer/MembaseServer%E5%AE%89%E8%A3%85.html
